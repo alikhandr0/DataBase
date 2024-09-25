@@ -1,4 +1,4 @@
-CREATE DATABASE lab2; 
+CREATE DATABASE lab2;  
 
 CREATE TABLE countries(
     country_id SERIAL PRIMARY KEY,
